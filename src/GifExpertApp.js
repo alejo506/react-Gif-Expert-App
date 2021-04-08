@@ -9,7 +9,7 @@ const GifExpertApp = () => {
   // Creando las categorias
 
   //Creamos un hook useState
-  const [categories, setCategories] = useState(['Dragon Ball']);// Se utiliza solo una categoría para no tener duplicidad en lo que se va  a hacer
+  const [categories, setCategories] = useState(['Ranma']);// Se utiliza solo una categoría para no tener duplicidad en lo que se va  a hacer
 
   return (
     <>

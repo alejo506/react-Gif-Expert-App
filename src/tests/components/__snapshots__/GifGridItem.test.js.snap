@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem /> debe mostrar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__flipInX"
+>
+  <img
+    alt="Un título"
+    className="card-img-top"
+    src="htpps://localhost/algo.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <h5
+      className="card-title"
+    >
+      Un título
+    </h5>
+  </div>
+</div>
+`;

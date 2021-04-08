@@ -14,7 +14,7 @@ export const AddCategory = ({ setCategorias }) => {
       setCategorias((categ) => [inputValue, ...categ]);
       setInputValue("");
     }
-    console.log("Submit hecho");
+    // console.log("Submit hecho");
   };
 
   // Con esta función ya se puede cambiar el valor dentro del input. 
